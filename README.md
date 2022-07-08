@@ -36,6 +36,7 @@ This app will help users:
 Every page has an AppBar and Navigation Bar to switch between pages.
 
 You can also check out this video to see the functionalities - 
+Unmute for better experience :)  
 
 https://user-images.githubusercontent.com/77449847/150571636-09078df2-4211-4247-bee4-9cacdb039668.mp4
 
@@ -48,7 +49,7 @@ https://user-images.githubusercontent.com/77449847/150571636-09078df2-4211-4247-
 * Flutter
 
 ## Collaborators 
-Created by [Siddharth Choudhary](https://github.com/babayaga2002) in collaboration with [Samayk Jain](https://github.com/samyakjain26) and [Aadarshraj Sah](https://github.com/Aadarshraj-Sah).
+Developed in collaboration with [Siddharth Choudhary](https://github.com/babayaga2002) and [Samayk Jain](https://github.com/samyakjain26).
 
 
 ## Status
